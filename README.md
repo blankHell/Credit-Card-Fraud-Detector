@@ -21,3 +21,7 @@ Running main.ipynb gives you a Graphical-User-Interface where we can do all sort
 
 Note: In main.ipynb, there is usage of 'tkinter' which might need additional installation from console ~ (USE pip install tkinter) in conda command prompt
 			In main_feature.ipynb there is usage of 'xgboost' and 'termcolor' libraries which need additionnal installation from console ~ (USE pip install xgboost and pip install 																																																																					termcolor) in conda command prompt
+#-------------------------------------------------------------------------------------------------------------------------#
+
+DataSet can be downloaded from the below address:
+https://www.kaggle.com/radhauppuganti/credit-card-transactions-train-set
